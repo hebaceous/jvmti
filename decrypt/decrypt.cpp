@@ -5,7 +5,7 @@
 #include <jni.h>
 #include <jni_md.h>
 
-#define PACKAGE "com/hpcloud/"
+#define PACKAGE "me/hebaceous/"
 
 void JNICALL
 MyClassFileLoadHook(
